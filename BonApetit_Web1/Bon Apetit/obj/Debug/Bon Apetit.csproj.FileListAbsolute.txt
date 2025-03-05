@@ -1,0 +1,16 @@
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\bin\Debug\Bon Apetit.exe.config
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\bin\Debug\Bon Apetit.exe
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\bin\Debug\Bon Apetit.pdb
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon_Apetit.Form1.resources
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon_Apetit.Properties.Resources.resources
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon Apetit.csproj.GenerateResource.cache
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon Apetit.csproj.CoreCompileInputs.cache
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon Apetit.exe
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon Apetit.pdb
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon_Apetit.Forms.AdminLogIn.resources
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon_Apetit.FrontEnd.UserControls.AdminEditing.resources
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon_Apetit.FrontEnd.UserControls.UserControlAddCookie.resources
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon_Apetit.FrontEnd.UserControls.UserControlAddCake.resources
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon_Apetit.FrontEnd.UserControls.UserControlAddPie.resources
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon_Apetit.FrontEnd.UserControls.UserControlAddPastry.resources
+C:\Users\hadar\OneDrive\מסמכים\2022B\תכנות מונחה עצמים\פרויקט\Bon Apetit\Bon Apetit\obj\Debug\Bon Apetit.csproj.AssemblyReference.cache
